@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=budgierestart
+Name=Budgie Restart
+Description= Restart Budgie
+Authors=Gopikrishnan R
+Copyright=Copyright © 2017 Gopikrishnan R
+Website=github.com/gkr09
+Icon=budgie-restart
